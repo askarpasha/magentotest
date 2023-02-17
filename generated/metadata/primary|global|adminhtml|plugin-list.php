@@ -2937,11 +2937,10 @@
     ),
     'Magento\\Checkout\\Model\\ShippingInformationManagement' => 
     array (
-      'pasha-custom-field-save-info' => 
+      'save_custom_notes_in_quote' => 
       array (
         'sortOrder' => 1,
-        'disabled' => false,
-        'instance' => 'Pasha\\CustomCheckoutField\\Plugin\\ShippingInformationManagement',
+        'instance' => 'Dev\\Testing\\Plugin\\Checkout\\Model\\ShippingInformationManagement',
       ),
     ),
     'Magento\\Framework\\View\\Asset\\Minification' => 
@@ -7682,11 +7681,10 @@
     'Magento\\Checkout\\Api\\ShippingInformationManagementInterface' => NULL,
     'Magento\\Checkout\\Model\\ShippingInformationManagement' => 
     array (
-      'pasha-custom-field-save-info' => 
+      'save_custom_notes_in_quote' => 
       array (
         'sortOrder' => 1,
-        'disabled' => false,
-        'instance' => 'Pasha\\CustomCheckoutField\\Plugin\\ShippingInformationManagement',
+        'instance' => 'Dev\\Testing\\Plugin\\Checkout\\Model\\ShippingInformationManagement',
       ),
     ),
     'Magento\\Framework\\View\\Asset\\Minification' => 
@@ -12022,7 +12020,7 @@
     array (
       1 => 
       array (
-        0 => 'pasha-custom-field-save-info',
+        0 => 'save_custom_notes_in_quote',
       ),
     ),
     'Magento\\Framework\\View\\Asset\\Minification_getExcludes___self' => 

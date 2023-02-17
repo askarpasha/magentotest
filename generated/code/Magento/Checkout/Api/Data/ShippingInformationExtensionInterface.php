@@ -9,11 +9,11 @@ interface ShippingInformationExtensionInterface extends \Magento\Framework\Api\E
     /**
      * @return string|null
      */
-    public function getDeliveryNote();
+    public function getCustomNotes();
 
     /**
-     * @param string $deliveryNote
+     * @param string $customNotes
      * @return $this
      */
-    public function setDeliveryNote($deliveryNote);
+    public function setCustomNotes($customNotes);
 }

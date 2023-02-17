@@ -2877,11 +2877,10 @@
     ),
     'Magento\\Checkout\\Model\\ShippingInformationManagement' => 
     array (
-      'pasha-custom-field-save-info' => 
+      'save_custom_notes_in_quote' => 
       array (
         'sortOrder' => 1,
-        'disabled' => false,
-        'instance' => 'Pasha\\CustomCheckoutField\\Plugin\\ShippingInformationManagement',
+        'instance' => 'Dev\\Testing\\Plugin\\Checkout\\Model\\ShippingInformationManagement',
       ),
     ),
     'Magento\\Framework\\View\\Asset\\Minification' => 
@@ -3097,6 +3096,11 @@
       array (
         'sortOrder' => 0,
         'instance' => 'Magento\\Vault\\Plugin\\PaymentVaultConfigurationProcess',
+      ),
+      'add_custom_notes_checkout_form' => 
+      array (
+        'sortOrder' => 10,
+        'instance' => 'Dev\\Testing\\Plugin\\Checkout\\Block\\Checkout\\LayoutProcessor',
       ),
     ),
     'Magento\\Quote\\Model\\Quote' => 
@@ -8201,11 +8205,10 @@
     'Magento\\Checkout\\Api\\ShippingInformationManagementInterface' => NULL,
     'Magento\\Checkout\\Model\\ShippingInformationManagement' => 
     array (
-      'pasha-custom-field-save-info' => 
+      'save_custom_notes_in_quote' => 
       array (
         'sortOrder' => 1,
-        'disabled' => false,
-        'instance' => 'Pasha\\CustomCheckoutField\\Plugin\\ShippingInformationManagement',
+        'instance' => 'Dev\\Testing\\Plugin\\Checkout\\Model\\ShippingInformationManagement',
       ),
     ),
     'Magento\\Framework\\View\\Asset\\Minification' => 
@@ -8419,6 +8422,11 @@
       array (
         'sortOrder' => 0,
         'instance' => 'Magento\\Vault\\Plugin\\PaymentVaultConfigurationProcess',
+      ),
+      'add_custom_notes_checkout_form' => 
+      array (
+        'sortOrder' => 10,
+        'instance' => 'Dev\\Testing\\Plugin\\Checkout\\Block\\Checkout\\LayoutProcessor',
       ),
     ),
     'Magento\\Quote\\Api\\Data\\CartInterface' => NULL,
@@ -12688,7 +12696,7 @@
     array (
       1 => 
       array (
-        0 => 'pasha-custom-field-save-info',
+        0 => 'save_custom_notes_in_quote',
       ),
     ),
     'Magento\\Framework\\View\\Asset\\Minification_getExcludes___self' => 
@@ -12827,6 +12835,10 @@
       1 => 
       array (
         0 => 'ProcessPaymentVaultConfiguration',
+      ),
+      4 => 
+      array (
+        0 => 'add_custom_notes_checkout_form',
       ),
     ),
     'Magento\\Quote\\Model\\Quote_removeItem___self' => 

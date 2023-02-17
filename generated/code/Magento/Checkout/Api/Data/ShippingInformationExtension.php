@@ -9,18 +9,18 @@ class ShippingInformationExtension extends \Magento\Framework\Api\AbstractSimple
     /**
      * @return string|null
      */
-    public function getDeliveryNote()
+    public function getCustomNotes()
     {
-        return $this->_get('delivery_note');
+        return $this->_get('custom_notes');
     }
 
     /**
-     * @param string $deliveryNote
+     * @param string $customNotes
      * @return $this
      */
-    public function setDeliveryNote($deliveryNote)
+    public function setCustomNotes($customNotes)
     {
-        $this->setData('delivery_note', $deliveryNote);
+        $this->setData('custom_notes', $customNotes);
         return $this;
     }
 }

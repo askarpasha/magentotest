@@ -319,39 +319,6 @@ require.config(config);
 var config = {
     map: {
         '*': {
-            escaper: 'Magento_Security/js/escaper'
-        }
-    }
-};
-
-require.config(config);
-})();
-(function() {
-/**
- * Copyright © Magento, Inc. All rights reserved.
- * See COPYING.txt for license details.
- */
-
-var config = {
-    map: {
-        '*': {
-            popupWindow:            'mage/popup-window',
-            confirmRedirect:        'Magento_Security/js/confirm-redirect'
-        }
-    }
-};
-
-require.config(config);
-})();
-(function() {
-/**
- * Copyright © Magento, Inc. All rights reserved.
- * See COPYING.txt for license details.
- */
-
-var config = {
-    map: {
-        '*': {
             priceBox:             'Magento_Catalog/js/price-box',
             priceOptionDate:      'Magento_Catalog/js/price-option-date',
             priceOptionFile:      'Magento_Catalog/js/price-option-file',
@@ -410,7 +377,24 @@ require.config(config);
 var config = {
     map: {
         '*': {
-            integration: 'Magento_Integration/js/integration'
+            escaper: 'Magento_Security/js/escaper'
+        }
+    }
+};
+
+require.config(config);
+})();
+(function() {
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+var config = {
+    map: {
+        '*': {
+            popupWindow:            'mage/popup-window',
+            confirmRedirect:        'Magento_Security/js/confirm-redirect'
         }
     }
 };
@@ -442,7 +426,55 @@ require.config(config);
 var config = {
     map: {
         '*': {
+            integration: 'Magento_Integration/js/integration'
+        }
+    }
+};
+
+require.config(config);
+})();
+(function() {
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+var config = {
+    map: {
+        '*': {
             testConnection: 'Magento_AdvancedSearch/js/testconnection'
+        }
+    }
+};
+
+require.config(config);
+})();
+(function() {
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+var config = {
+    map: {
+        '*': {
+            groupedProduct: 'Magento_GroupedProduct/js/grouped-product'
+        }
+    }
+};
+
+require.config(config);
+})();
+(function() {
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+var config = {
+    map: {
+        '*': {
+            fptAttribute: 'Magento_Weee/js/fpt-attribute'
         }
     }
 };
@@ -481,22 +513,6 @@ var config = {
             'chart.js':     'chartjs/Chart.min',
             tinymce:        'tiny_mce_5/tinymce.min',
             wysiwygAdapter: 'mage/adminhtml/wysiwyg/tiny_mce/tinymce5Adapter'
-        }
-    }
-};
-
-require.config(config);
-})();
-(function() {
-/**
- * Copyright © Magento, Inc. All rights reserved.
- * See COPYING.txt for license details.
- */
-
-var config = {
-    map: {
-        '*': {
-            groupedProduct: 'Magento_GroupedProduct/js/grouped-product'
         }
     }
 };
@@ -717,22 +733,6 @@ var config = {
         '*': {
             loadIcons: 'Magento_AdminAdobeIms/js/loadicons',
             adobeImsReauth: 'Magento_AdminAdobeIms/js/adobe-ims-reauth'
-        }
-    }
-};
-
-require.config(config);
-})();
-(function() {
-/**
- * Copyright © Magento, Inc. All rights reserved.
- * See COPYING.txt for license details.
- */
-
-var config = {
-    map: {
-        '*': {
-            fptAttribute: 'Magento_Weee/js/fpt-attribute'
         }
     }
 };

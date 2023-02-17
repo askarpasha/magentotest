@@ -1,4 +1,4 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1676647526;s:6:"expire";i:1676733926;s:4:"tags";s:116:"990_CAT_P,990_BLOCK_HTML,990_CAT_P_1556,990_CAT_P_1812,990_CAT_P_694,990_CAT_P_158,990_CAT_P_6,990_CAT_P_14,990_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1676656100;s:6:"expire";i:1676742500;s:4:"tags";s:116:"990_CAT_P,990_BLOCK_HTML,990_CAT_P_1556,990_CAT_P_1812,990_CAT_P_694,990_CAT_P_158,990_CAT_P_6,990_CAT_P_14,990_MAGE";}
         <div class="block widget block-products-list grid">
                 <div class="block-content">
             <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
@@ -44,9 +44,9 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                  title="60%">
                 <span><span>60%</span></span>
             </div>
-            <script type="text&#x2F;javascript">var elemcHLpc7DX = document.querySelector('#rating-result_1556 span');
-if (elemcHLpc7DX) {
-elemcHLpc7DX.style.width = '60%';
+            <script type="text&#x2F;javascript">var elemMKRsGpaw = document.querySelector('#rating-result_1556 span');
+if (elemMKRsGpaw) {
+elemMKRsGpaw.style.width = '60%';
 }</script>        </div>
                 <div class="reviews-actions">
             <a class="action view"
@@ -169,9 +169,9 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                  title="70%">
                 <span><span>70%</span></span>
             </div>
-            <script type="text&#x2F;javascript">var elemSo9iCVsU = document.querySelector('#rating-result_1812 span');
-if (elemSo9iCVsU) {
-elemSo9iCVsU.style.width = '70%';
+            <script type="text&#x2F;javascript">var elemsIQlEfsU = document.querySelector('#rating-result_1812 span');
+if (elemsIQlEfsU) {
+elemsIQlEfsU.style.width = '70%';
 }</script>        </div>
                 <div class="reviews-actions">
             <a class="action view"
@@ -508,9 +508,9 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                  title="67%">
                 <span><span>67%</span></span>
             </div>
-            <script type="text&#x2F;javascript">var elem4L3CUUvh = document.querySelector('#rating-result_6 span');
-if (elem4L3CUUvh) {
-elem4L3CUUvh.style.width = '67%';
+            <script type="text&#x2F;javascript">var elemc8CWDnnD = document.querySelector('#rating-result_6 span');
+if (elemc8CWDnnD) {
+elemc8CWDnnD.style.width = '67%';
 }</script>        </div>
                 <div class="reviews-actions">
             <a class="action view"
@@ -599,9 +599,9 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                  title="67%">
                 <span><span>67%</span></span>
             </div>
-            <script type="text&#x2F;javascript">var elemhhR5bYxP = document.querySelector('#rating-result_14 span');
-if (elemhhR5bYxP) {
-elemhhR5bYxP.style.width = '67%';
+            <script type="text&#x2F;javascript">var elemCjEVpiZt = document.querySelector('#rating-result_14 span');
+if (elemCjEVpiZt) {
+elemCjEVpiZt.style.width = '67%';
 }</script>        </div>
                 <div class="reviews-actions">
             <a class="action view"

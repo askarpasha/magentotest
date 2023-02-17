@@ -1,0 +1,581 @@
+[2023-02-16T23:10:15.474396+00:00] main.ERROR: Parameter validation failed
+#0 /var/www/html/danubetest/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize()
+#1 /var/www/html/danubetest/vendor/symfony/console/Application.php(1021): Symfony\Component\Console\Command\Command->run()
+#2 /var/www/html/danubetest/vendor/symfony/console/Application.php(275): Symfony\Component\Console\Application->doRunCommand()
+#3 /var/www/html/danubetest/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#4 /var/www/html/danubetest/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#5 /var/www/html/danubetest/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2023-02-16T23:10:34.770085+00:00] main.ERROR: Parameter validation failed
+#0 /var/www/html/danubetest/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize()
+#1 /var/www/html/danubetest/vendor/symfony/console/Application.php(1021): Symfony\Component\Console\Command\Command->run()
+#2 /var/www/html/danubetest/vendor/symfony/console/Application.php(275): Symfony\Component\Console\Application->doRunCommand()
+#3 /var/www/html/danubetest/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#4 /var/www/html/danubetest/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#5 /var/www/html/danubetest/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2023-02-16T23:13:37.226927+00:00] main.ERROR: Parameter validation failed
+#0 /var/www/html/danubetest/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize()
+#1 /var/www/html/danubetest/vendor/symfony/console/Application.php(1021): Symfony\Component\Console\Command\Command->run()
+#2 /var/www/html/danubetest/vendor/symfony/console/Application.php(275): Symfony\Component\Console\Application->doRunCommand()
+#3 /var/www/html/danubetest/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#4 /var/www/html/danubetest/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#5 /var/www/html/danubetest/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2023-02-16T23:43:32.506810+00:00] main.ERROR: Parameter validation failed
+#0 /var/www/html/danubetest/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize()
+#1 /var/www/html/danubetest/vendor/symfony/console/Application.php(1021): Symfony\Component\Console\Command\Command->run()
+#2 /var/www/html/danubetest/vendor/symfony/console/Application.php(275): Symfony\Component\Console\Application->doRunCommand()
+#3 /var/www/html/danubetest/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#4 /var/www/html/danubetest/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#5 /var/www/html/danubetest/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2023-02-16T23:44:10.132876+00:00] main.ERROR: Parameter validation failed
+#0 /var/www/html/danubetest/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize()
+#1 /var/www/html/danubetest/vendor/symfony/console/Application.php(1021): Symfony\Component\Console\Command\Command->run()
+#2 /var/www/html/danubetest/vendor/symfony/console/Application.php(275): Symfony\Component\Console\Application->doRunCommand()
+#3 /var/www/html/danubetest/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#4 /var/www/html/danubetest/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#5 /var/www/html/danubetest/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2023-02-16T23:44:28.446710+00:00] main.ERROR: Parameter validation failed
+#0 /var/www/html/danubetest/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize()
+#1 /var/www/html/danubetest/vendor/symfony/console/Application.php(1021): Symfony\Component\Console\Command\Command->run()
+#2 /var/www/html/danubetest/vendor/symfony/console/Application.php(275): Symfony\Component\Console\Application->doRunCommand()
+#3 /var/www/html/danubetest/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#4 /var/www/html/danubetest/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#5 /var/www/html/danubetest/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2023-02-16T23:58:04.253447+00:00] main.ERROR: Parameter validation failed
+#0 /var/www/html/danubetest/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize()
+#1 /var/www/html/danubetest/vendor/symfony/console/Application.php(1021): Symfony\Component\Console\Command\Command->run()
+#2 /var/www/html/danubetest/vendor/symfony/console/Application.php(275): Symfony\Component\Console\Application->doRunCommand()
+#3 /var/www/html/danubetest/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#4 /var/www/html/danubetest/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#5 /var/www/html/danubetest/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2023-02-16T23:58:37.685807+00:00] main.ERROR: Parameter validation failed
+#0 /var/www/html/danubetest/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize()
+#1 /var/www/html/danubetest/vendor/symfony/console/Application.php(1021): Symfony\Component\Console\Command\Command->run()
+#2 /var/www/html/danubetest/vendor/symfony/console/Application.php(275): Symfony\Component\Console\Application->doRunCommand()
+#3 /var/www/html/danubetest/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#4 /var/www/html/danubetest/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#5 /var/www/html/danubetest/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2023-02-16T23:59:49.345700+00:00] main.ERROR: Parameter validation failed
+#0 /var/www/html/danubetest/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize()
+#1 /var/www/html/danubetest/vendor/symfony/console/Application.php(1021): Symfony\Component\Console\Command\Command->run()
+#2 /var/www/html/danubetest/vendor/symfony/console/Application.php(275): Symfony\Component\Console\Application->doRunCommand()
+#3 /var/www/html/danubetest/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#4 /var/www/html/danubetest/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#5 /var/www/html/danubetest/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2023-02-17T00:05:38.327314+00:00] main.ERROR: Parameter validation failed
+#0 /var/www/html/danubetest/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize()
+#1 /var/www/html/danubetest/vendor/symfony/console/Application.php(1021): Symfony\Component\Console\Command\Command->run()
+#2 /var/www/html/danubetest/vendor/symfony/console/Application.php(275): Symfony\Component\Console\Application->doRunCommand()
+#3 /var/www/html/danubetest/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#4 /var/www/html/danubetest/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#5 /var/www/html/danubetest/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2023-02-17T00:16:52.754120+00:00] main.ERROR: Parameter validation failed
+#0 /var/www/html/danubetest/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize()
+#1 /var/www/html/danubetest/vendor/symfony/console/Application.php(1021): Symfony\Component\Console\Command\Command->run()
+#2 /var/www/html/danubetest/vendor/symfony/console/Application.php(275): Symfony\Component\Console\Application->doRunCommand()
+#3 /var/www/html/danubetest/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#4 /var/www/html/danubetest/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#5 /var/www/html/danubetest/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2023-02-17T00:18:48.208841+00:00] main.ERROR: Parameter validation failed
+#0 /var/www/html/danubetest/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize()
+#1 /var/www/html/danubetest/vendor/symfony/console/Application.php(1021): Symfony\Component\Console\Command\Command->run()
+#2 /var/www/html/danubetest/vendor/symfony/console/Application.php(275): Symfony\Component\Console\Application->doRunCommand()
+#3 /var/www/html/danubetest/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#4 /var/www/html/danubetest/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#5 /var/www/html/danubetest/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2023-02-17T00:23:20.598021+00:00] main.ERROR: Parameter validation failed
+#0 /var/www/html/danubetest/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize()
+#1 /var/www/html/danubetest/vendor/symfony/console/Application.php(1021): Symfony\Component\Console\Command\Command->run()
+#2 /var/www/html/danubetest/vendor/symfony/console/Application.php(275): Symfony\Component\Console\Application->doRunCommand()
+#3 /var/www/html/danubetest/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#4 /var/www/html/danubetest/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#5 /var/www/html/danubetest/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2023-02-17T00:27:42.996510+00:00] main.ERROR: Could not validate a connection to Elasticsearch. No alive nodes found in your cluster
+#0 /var/www/html/danubetest/setup/src/Magento/Setup/Model/SearchConfig.php(69): Magento\Setup\Model\SearchConfig->validateSearchEngine()
+#1 /var/www/html/danubetest/setup/src/Magento/Setup/Model/Installer.php(1208): Magento\Setup\Model\SearchConfig->saveConfiguration()
+#2 [internal function]: Magento\Setup\Model\Installer->installSearchConfiguration()
+#3 /var/www/html/danubetest/setup/src/Magento/Setup/Model/Installer.php(386): call_user_func_array()
+#4 /var/www/html/danubetest/setup/src/Magento/Setup/Console/Command/InstallCommand.php(238): Magento\Setup\Model\Installer->install()
+#5 /var/www/html/danubetest/vendor/symfony/console/Command/Command.php(255): Magento\Setup\Console\Command\InstallCommand->execute()
+#6 /var/www/html/danubetest/vendor/symfony/console/Application.php(1021): Symfony\Component\Console\Command\Command->run()
+#7 /var/www/html/danubetest/vendor/symfony/console/Application.php(275): Symfony\Component\Console\Application->doRunCommand()
+#8 /var/www/html/danubetest/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#9 /var/www/html/danubetest/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#10 /var/www/html/danubetest/bin/magento(23): Symfony\Component\Console\Application->run()
+#11 {main} [] []
+[2023-02-17T00:32:34.754788+00:00] main.ERROR: Could not validate a connection to Elasticsearch. Verify that the Elasticsearch host and port are configured correctly.
+#0 /var/www/html/danubetest/setup/src/Magento/Setup/Model/SearchConfig.php(69): Magento\Setup\Model\SearchConfig->validateSearchEngine()
+#1 /var/www/html/danubetest/setup/src/Magento/Setup/Model/Installer.php(1208): Magento\Setup\Model\SearchConfig->saveConfiguration()
+#2 [internal function]: Magento\Setup\Model\Installer->installSearchConfiguration()
+#3 /var/www/html/danubetest/setup/src/Magento/Setup/Model/Installer.php(386): call_user_func_array()
+#4 /var/www/html/danubetest/setup/src/Magento/Setup/Console/Command/InstallCommand.php(238): Magento\Setup\Model\Installer->install()
+#5 /var/www/html/danubetest/vendor/symfony/console/Command/Command.php(255): Magento\Setup\Console\Command\InstallCommand->execute()
+#6 /var/www/html/danubetest/vendor/symfony/console/Application.php(1021): Symfony\Component\Console\Command\Command->run()
+#7 /var/www/html/danubetest/vendor/symfony/console/Application.php(275): Symfony\Component\Console\Application->doRunCommand()
+#8 /var/www/html/danubetest/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#9 /var/www/html/danubetest/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#10 /var/www/html/danubetest/bin/magento(23): Symfony\Component\Console\Application->run()
+#11 {main} [] []
+[2023-02-17T01:38:57.439795+00:00] main.ERROR: NOTE: Manual static content deployment is not required in "default" and "developer" modes.
+In "default" and "developer" modes static contents are being deployed automatically on demand.
+If you still want to deploy in these modes, use -f option: 'bin/magento setup:static-content:deploy -f'
+#0 /var/www/html/danubetest/setup/src/Magento/Setup/Console/Command/DeployStaticContentCommand.php(112): Magento\Setup\Console\Command\DeployStaticContentCommand->checkAppMode()
+#1 /var/www/html/danubetest/vendor/symfony/console/Command/Command.php(255): Magento\Setup\Console\Command\DeployStaticContentCommand->execute()
+#2 /var/www/html/danubetest/vendor/symfony/console/Application.php(1021): Symfony\Component\Console\Command\Command->run()
+#3 /var/www/html/danubetest/vendor/symfony/console/Application.php(275): Symfony\Component\Console\Application->doRunCommand()
+#4 /var/www/html/danubetest/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#5 /var/www/html/danubetest/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#6 /var/www/html/danubetest/bin/magento(23): Symfony\Component\Console\Application->run()
+#7 {main} [] []
+[2023-02-17T07:02:02.449847+00:00] main.ERROR: Command "deploy:mode" is not defined.
+
+Did you mean one of these?
+    deploy:mode:set
+    deploy:mode:show
+    indexer:set-dimensions-mode
+    indexer:set-mode
+    indexer:show-dimensions-mode
+    indexer:show-mode
+#0 /var/www/html/danubetest/vendor/symfony/console/Application.php(237): Symfony\Component\Console\Application->find()
+#1 /var/www/html/danubetest/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#2 /var/www/html/danubetest/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun()
+#3 /var/www/html/danubetest/bin/magento(23): Symfony\Component\Console\Application->run()
+#4 {main} [] []
+[2023-02-17T07:25:47.968893+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2023-02-17T07:25:47.969383+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2023-02-17T07:25:47.969563+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2023-02-17T07:25:47.969641+00:00] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2023-02-17T07:25:47.969701+00:00] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2023-02-17T07:25:47.969749+00:00] main.INFO: Broken reference: the 'sidebar.container.paylater' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.614657+00:00] main.INFO: Broken reference: the 'tracking' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.614916+00:00] main.INFO: Broken reference: the 'notification_area' element cannot be added as child to 'notifications', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.615008+00:00] main.INFO: Broken reference: the 'unread_system_messages' element cannot be added as child to 'notifications', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.615060+00:00] main.INFO: Broken reference: the 'notification_window' element cannot be added as child to 'notifications', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.615107+00:00] main.INFO: Broken reference: the 'notification.messages' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.615157+00:00] main.INFO: Broken reference: the 'global_notices' element cannot be added as child to 'global.notices', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.615201+00:00] main.INFO: Broken reference: the 'logo' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.615247+00:00] main.INFO: Broken reference: the 'global.search' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.615291+00:00] main.INFO: Broken reference: the 'user' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.615335+00:00] main.INFO: Broken reference: the 'menu' element cannot be added as child to 'page.menu', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.615379+00:00] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.breadcrumbs', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.615448+00:00] main.INFO: Broken reference: the 'formkey' element cannot be added as child to 'page.formkey', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.615492+00:00] main.INFO: Broken reference: the 'page.title' element cannot be added as child to 'main.top', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.615536+00:00] main.INFO: Broken reference: the 'messages' element cannot be added as child to 'page.messages', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.615579+00:00] main.INFO: Broken reference: the 'page.actions.toolbar' element cannot be added as child to 'page.main.actions', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.615622+00:00] main.INFO: Broken reference: the 'legal' element cannot be added as child to 'footer', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.615719+00:00] main.INFO: Broken reference: the 'header.inner.left' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.615769+00:00] main.INFO: Broken reference: the 'header.inner.right' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2023-02-17T07:26:11.615851+00:00] main.INFO: Broken reference: the 'user' tries to reorder itself towards '', but their parents are different: 'header' and '' respectively. [] []
+[2023-02-17T07:26:11.615898+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header' and '' respectively. [] []
+[2023-02-17T07:26:11.615944+00:00] main.INFO: Broken reference: the 'logo' tries to reorder itself towards '', but their parents are different: 'header' and '' respectively. [] []
+[2023-02-17T07:26:11.615997+00:00] main.INFO: Broken reference: the 'global.search' tries to reorder itself towards 'logo', but their parents are different: 'header' and '' respectively. [] []
+[2023-02-17T07:26:11.616042+00:00] main.INFO: Broken reference: the 'page.actions.toolbar' tries to reorder itself towards '', but their parents are different: 'page.main.actions' and '' respectively. [] []
+[2023-02-17T07:26:11.616109+00:00] main.INFO: Broken reference: the 'header.inner.left' tries to reorder itself towards '', but their parents are different: 'header' and '' respectively. [] []
+[2023-02-17T07:26:11.616155+00:00] main.INFO: Broken reference: the 'header.inner.right' tries to reorder itself towards 'header.inner.left', but their parents are different: 'header' and '' respectively. [] []
+[2023-02-17T07:26:11.616207+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and '' respectively. [] []
+[2023-02-17T07:26:41.852001+00:00] main.INFO: Item Magento_Backend::system_currency was removed [] []
+[2023-02-17T07:26:41.857232+00:00] main.INFO: Add of item with id Magento_AdminNotification::system_adminnotification was processed [] []
+[2023-02-17T07:26:41.857380+00:00] main.INFO: Add of item with id Magento_Theme::design_config was processed [] []
+[2023-02-17T07:26:41.857469+00:00] main.INFO: Add of item with id Magento_Theme::system_design_theme was processed [] []
+[2023-02-17T07:26:41.857570+00:00] main.INFO: Add of item with id Magento_Config::system_config was processed [] []
+[2023-02-17T07:26:41.857649+00:00] main.INFO: Add of item with id Magento_Backend::system_design_schedule was processed [] []
+[2023-02-17T07:26:41.857721+00:00] main.INFO: Add of item with id Magento_Backend::system_store was processed [] []
+[2023-02-17T07:26:41.857791+00:00] main.INFO: Add of item with id Magento_Backend::dashboard was processed [] []
+[2023-02-17T07:26:41.857862+00:00] main.INFO: Add of item with id Magento_Backend::system was processed [] []
+[2023-02-17T07:26:41.857955+00:00] main.INFO: Add of item with id Magento_Backend::system_tools was processed [] []
+[2023-02-17T07:26:41.858051+00:00] main.INFO: Add of item with id Magento_Backend::system_design was processed [] []
+[2023-02-17T07:26:41.858125+00:00] main.INFO: Add of item with id Magento_Backend::system_convert was processed [] []
+[2023-02-17T07:26:41.858215+00:00] main.INFO: Add of item with id Magento_Backend::system_cache was processed [] []
+[2023-02-17T07:26:41.858287+00:00] main.INFO: Add of item with id Magento_Backend::marketing was processed [] []
+[2023-02-17T07:26:41.858376+00:00] main.INFO: Add of item with id Magento_Backend::marketing_communications was processed [] []
+[2023-02-17T07:26:41.858450+00:00] main.INFO: Add of item with id Magento_Backend::marketing_seo was processed [] []
+[2023-02-17T07:26:41.858521+00:00] main.INFO: Add of item with id Magento_Backend::marketing_user_content was processed [] []
+[2023-02-17T07:26:41.858591+00:00] main.INFO: Add of item with id Magento_Backend::content was processed [] []
+[2023-02-17T07:26:41.858661+00:00] main.INFO: Add of item with id Magento_Backend::content_elements was processed [] []
+[2023-02-17T07:26:41.858729+00:00] main.INFO: Add of item with id Magento_Backend::stores was processed [] []
+[2023-02-17T07:26:41.858821+00:00] main.INFO: Add of item with id Magento_Backend::stores_settings was processed [] []
+[2023-02-17T07:26:41.858897+00:00] main.INFO: Add of item with id Magento_Backend::stores_attributes was processed [] []
+[2023-02-17T07:26:41.858966+00:00] main.INFO: Add of item with id Magento_Backend::other_settings was processed [] []
+[2023-02-17T07:26:41.859048+00:00] main.INFO: Add of item with id Magento_Backend::system_other_settings was processed [] []
+[2023-02-17T07:26:41.859118+00:00] main.INFO: Add of item with id Magento_Customer::customer was processed [] []
+[2023-02-17T07:26:41.859209+00:00] main.INFO: Add of item with id Magento_Customer::customer_manage was processed [] []
+[2023-02-17T07:26:41.859282+00:00] main.INFO: Add of item with id Magento_Customer::customer_online was processed [] []
+[2023-02-17T07:26:41.859353+00:00] main.INFO: Add of item with id Magento_Customer::customer_group was processed [] []
+[2023-02-17T07:26:41.859436+00:00] main.INFO: Add of item with id Magento_User::system_acl was processed [] []
+[2023-02-17T07:26:41.859533+00:00] main.INFO: Add of item with id Magento_User::system_acl_users was processed [] []
+[2023-02-17T07:26:41.859618+00:00] main.INFO: Add of item with id Magento_User::system_acl_roles was processed [] []
+[2023-02-17T07:26:41.859689+00:00] main.INFO: Add of item with id Magento_User::system_acl_locks was processed [] []
+[2023-02-17T07:26:41.859759+00:00] main.INFO: Add of item with id Magento_Backup::system_tools_backup was processed [] []
+[2023-02-17T07:26:41.859829+00:00] main.INFO: Add of item with id Magento_Indexer::system_index was processed [] []
+[2023-02-17T07:26:41.859899+00:00] main.INFO: Add of item with id Magento_Variable::system_variable was processed [] []
+[2023-02-17T07:26:41.859988+00:00] main.INFO: Add of item with id Magento_Cms::cms_page was processed [] []
+[2023-02-17T07:26:41.860063+00:00] main.INFO: Add of item with id Magento_Cms::cms_block was processed [] []
+[2023-02-17T07:26:41.860156+00:00] main.INFO: Add of item with id Magento_Search::search_terms was processed [] []
+[2023-02-17T07:26:41.860230+00:00] main.INFO: Add of item with id Magento_Search::search_synonyms was processed [] []
+[2023-02-17T07:26:41.860300+00:00] main.INFO: Add of item with id Magento_Catalog::catalog was processed [] []
+[2023-02-17T07:26:41.860392+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_products was processed [] []
+[2023-02-17T07:26:41.860466+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_categories was processed [] []
+[2023-02-17T07:26:41.860555+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_attributes was processed [] []
+[2023-02-17T07:26:41.860629+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_sets was processed [] []
+[2023-02-17T07:26:41.860720+00:00] main.INFO: Add of item with id Magento_Catalog::inventory was processed [] []
+[2023-02-17T07:26:41.860794+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo was processed [] []
+[2023-02-17T07:26:41.860886+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo_catalog was processed [] []
+[2023-02-17T07:26:41.860960+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media was processed [] []
+[2023-02-17T07:26:41.861048+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media_gallery was processed [] []
+[2023-02-17T07:26:41.861122+00:00] main.INFO: Add of item with id Magento_Integration::system_extensions was processed [] []
+[2023-02-17T07:26:41.861214+00:00] main.INFO: Add of item with id Magento_Integration::system_integrations was processed [] []
+[2023-02-17T07:26:41.861288+00:00] main.INFO: Add of item with id Magento_Sales::sales was processed [] []
+[2023-02-17T07:26:41.861377+00:00] main.INFO: Add of item with id Magento_Sales::sales_operation was processed [] []
+[2023-02-17T07:26:41.861470+00:00] main.INFO: Add of item with id Magento_Sales::sales_order was processed [] []
+[2023-02-17T07:26:41.861543+00:00] main.INFO: Add of item with id Magento_Sales::sales_invoice was processed [] []
+[2023-02-17T07:26:41.861614+00:00] main.INFO: Add of item with id Magento_Sales::sales_shipment was processed [] []
+[2023-02-17T07:26:41.861684+00:00] main.INFO: Add of item with id Magento_Sales::sales_creditmemo was processed [] []
+[2023-02-17T07:26:41.861754+00:00] main.INFO: Add of item with id Magento_Sales::sales_transactions was processed [] []
+[2023-02-17T07:26:41.861834+00:00] main.INFO: Add of item with id Magento_Sales::system_order_statuses was processed [] []
+[2023-02-17T07:26:41.861906+00:00] main.INFO: Add of item with id Magento_Widget::cms_widget_instance was processed [] []
+[2023-02-17T07:26:41.861997+00:00] main.INFO: Add of item with id Magento_Analytics::business_intelligence was processed [] []
+[2023-02-17T07:26:41.862088+00:00] main.INFO: Add of item with id Magento_Analytics::advanced_reporting was processed [] []
+[2023-02-17T07:26:41.862165+00:00] main.INFO: Add of item with id Magento_Analytics::bi_essentials was processed [] []
+[2023-02-17T07:26:41.862255+00:00] main.INFO: Add of item with id Magento_Downloadable::report_products_downloads was processed [] []
+[2023-02-17T07:26:41.862364+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_import was processed [] []
+[2023-02-17T07:26:41.862439+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_export was processed [] []
+[2023-02-17T07:26:41.862508+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_history was processed [] []
+[2023-02-17T07:26:41.862596+00:00] main.INFO: Add of item with id Magento_Email::template was processed [] []
+[2023-02-17T07:26:41.862669+00:00] main.INFO: Add of item with id Magento_EncryptionKey::system_crypt_key was processed [] []
+[2023-02-17T07:26:41.862738+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::inventory was processed [] []
+[2023-02-17T07:26:41.862859+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::source was processed [] []
+[2023-02-17T07:26:41.862932+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::stock was processed [] []
+[2023-02-17T07:26:41.863002+00:00] main.INFO: Add of item with id Magento_Reports::report was processed [] []
+[2023-02-17T07:26:41.863071+00:00] main.INFO: Add of item with id Magento_Reports::report_marketing was processed [] []
+[2023-02-17T07:26:41.863141+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot was processed [] []
+[2023-02-17T07:26:41.863232+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_sales was processed [] []
+[2023-02-17T07:26:41.863307+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_tax was processed [] []
+[2023-02-17T07:26:41.863378+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_invoiced was processed [] []
+[2023-02-17T07:26:41.863458+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_shipping was processed [] []
+[2023-02-17T07:26:41.863528+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_refunded was processed [] []
+[2023-02-17T07:26:41.863599+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_coupons was processed [] []
+[2023-02-17T07:26:41.863688+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_product was processed [] []
+[2023-02-17T07:26:41.863761+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_abandoned was processed [] []
+[2023-02-17T07:26:41.863832+00:00] main.INFO: Add of item with id Magento_Reports::report_products was processed [] []
+[2023-02-17T07:26:41.863902+00:00] main.INFO: Add of item with id Magento_Reports::report_products_bestsellers was processed [] []
+[2023-02-17T07:26:41.863972+00:00] main.INFO: Add of item with id Magento_Reports::report_products_sold was processed [] []
+[2023-02-17T07:26:41.864042+00:00] main.INFO: Add of item with id Magento_Reports::report_products_viewed was processed [] []
+[2023-02-17T07:26:41.864112+00:00] main.INFO: Add of item with id Magento_Reports::report_products_lowstock was processed [] []
+[2023-02-17T07:26:41.864182+00:00] main.INFO: Add of item with id Magento_Reports::report_customers was processed [] []
+[2023-02-17T07:26:41.864272+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_accounts was processed [] []
+[2023-02-17T07:26:41.864345+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_totals was processed [] []
+[2023-02-17T07:26:41.864423+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_orders was processed [] []
+[2023-02-17T07:26:41.864492+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics was processed [] []
+[2023-02-17T07:26:41.864580+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics_refresh was processed [] []
+[2023-02-17T07:26:41.864654+00:00] main.INFO: Add of item with id Magento_Search::report_search_term was processed [] []
+[2023-02-17T07:26:41.864725+00:00] main.INFO: Add of item with id Magento_LoginAsCustomerLog::login_log was processed [] []
+[2023-02-17T07:26:41.864794+00:00] main.INFO: Add of item with id Magento_Marketplace::partners was processed [] []
+[2023-02-17T07:26:41.864872+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_template was processed [] []
+[2023-02-17T07:26:41.864941+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_queue was processed [] []
+[2023-02-17T07:26:41.865008+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_subscriber was processed [] []
+[2023-02-17T07:26:41.865077+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_problem was processed [] []
+[2023-02-17T07:26:41.865146+00:00] main.INFO: Add of item with id Magento_SalesRule::promo_quote was processed [] []
+[2023-02-17T07:26:41.865214+00:00] main.INFO: Add of item with id Magento_Sitemap::catalog_sitemap was processed [] []
+[2023-02-17T07:26:41.865283+00:00] main.INFO: Add of item with id Magento_PageBuilder::templates was processed [] []
+[2023-02-17T07:26:41.865353+00:00] main.INFO: Add of item with id Magento_Paypal::report_salesroot_paypal_settlement_reports was processed [] []
+[2023-02-17T07:26:41.865423+00:00] main.INFO: Add of item with id Magento_Paypal::paypal_billing_agreement was processed [] []
+[2023-02-17T07:26:41.865493+00:00] main.INFO: Add of item with id Magento_CheckoutAgreements::sales_checkoutagreement was processed [] []
+[2023-02-17T07:26:41.865562+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_ratings was processed [] []
+[2023-02-17T07:26:41.865652+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_pending was processed [] []
+[2023-02-17T07:26:41.865727+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_reviews_all was processed [] []
+[2023-02-17T07:26:41.865798+00:00] main.INFO: Add of item with id Magento_Review::report_review was processed [] []
+[2023-02-17T07:26:41.865889+00:00] main.INFO: Add of item with id Magento_Review::report_review_customer was processed [] []
+[2023-02-17T07:26:41.865962+00:00] main.INFO: Add of item with id Magento_Review::report_review_product was processed [] []
+[2023-02-17T07:26:41.866030+00:00] main.INFO: Add of item with id Magento_UrlRewrite::urlrewrite was processed [] []
+[2023-02-17T07:26:41.866098+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax was processed [] []
+[2023-02-17T07:26:41.866188+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rules was processed [] []
+[2023-02-17T07:26:41.866272+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rates was processed [] []
+[2023-02-17T07:26:41.866343+00:00] main.INFO: Add of item with id Magento_TaxImportExport::system_convert_tax was processed [] []
+[2023-02-17T07:26:41.866413+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging was processed [] []
+[2023-02-17T07:26:41.866504+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging_bulk_operations was processed [] []
+[2023-02-17T07:26:41.866581+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency was processed [] []
+[2023-02-17T07:26:41.866670+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_rates was processed [] []
+[2023-02-17T07:26:41.866743+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_symbols was processed [] []
+[2023-02-17T07:26:41.866820+00:00] main.INFO: Add of item with id PayPal_Braintree::settlement_report was processed [] []
+[2023-02-17T07:26:41.866892+00:00] main.INFO: Add of item with id PayPal_Braintree::virtual_terminal was processed [] []
+[2023-02-17T07:26:44.267920+00:00] main.ERROR: Laminas\Mail\Transport\Exception\RuntimeException: Unable to send mail: Unknown error in /var/www/html/danubetest/vendor/laminas/laminas-mail/src/Transport/Sendmail.php:310
+Stack trace:
+#0 /var/www/html/danubetest/vendor/laminas/laminas-mail/src/Transport/Sendmail.php(149): Laminas\Mail\Transport\Sendmail->mailHandler()
+#1 /var/www/html/danubetest/vendor/magento/module-email/Model/Transport.php(111): Laminas\Mail\Transport\Sendmail->send()
+#2 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Email\Model\Transport->sendMessage()
+#3 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Email\Model\Transport\Interceptor->___callParent()
+#4 /var/www/html/danubetest/vendor/magento/module-email/Model/Mail/TransportInterfacePlugin.php(48): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#5 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Email\Model\Mail\TransportInterfacePlugin->aroundSendMessage()
+#6 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /var/www/html/danubetest/generated/code/Magento/Email/Model/Transport/Interceptor.php(23): Magento\Email\Model\Transport\Interceptor->___callPlugins()
+#8 /var/www/html/danubetest/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(106): Magento\Email\Model\Transport\Interceptor->sendMessage()
+#9 /var/www/html/danubetest/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(135): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendConfigRequired()
+#10 /var/www/html/danubetest/vendor/magento/module-two-factor-auth/Model/UserConfig/UserConfigRequestManager.php(82): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendAppConfigRequestMessage()
+#11 /var/www/html/danubetest/vendor/magento/module-two-factor-auth/Controller/Adminhtml/Tfa/Requestconfig.php(95): Magento\TwoFactorAuth\Model\UserConfig\UserConfigRequestManager->sendConfigRequestTo()
+#12 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig->execute()
+#13 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#14 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#15 /var/www/html/danubetest/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(23): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#16 /var/www/html/danubetest/vendor/magento/framework/App/Action/Action.php(111): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->execute()
+#17 /var/www/html/danubetest/vendor/magento/module-backend/App/AbstractAction.php(151): Magento\Framework\App\Action\Action->dispatch()
+#18 /var/www/html/danubetest/vendor/magento/module-two-factor-auth/Controller/Adminhtml/AbstractAction.php(30): Magento\Backend\App\AbstractAction->dispatch()
+#19 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\AbstractAction->dispatch()
+#20 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#21 /var/www/html/danubetest/vendor/magento/module-backend/App/Action/Plugin/Authentication.php(145): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#22 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Backend\App\Action\Plugin\Authentication->aroundDispatch()
+#23 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#24 /var/www/html/danubetest/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(32): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#25 /var/www/html/danubetest/vendor/magento/framework/App/FrontController.php(245): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->dispatch()
+#26 /var/www/html/danubetest/vendor/magento/framework/App/FrontController.php(212): Magento\Framework\App\FrontController->getActionResponse()
+#27 /var/www/html/danubetest/vendor/magento/framework/App/FrontController.php(147): Magento\Framework\App\FrontController->processRequest()
+#28 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#29 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#30 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#31 /var/www/html/danubetest/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#32 /var/www/html/danubetest/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#33 /var/www/html/danubetest/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#34 /var/www/html/danubetest/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#35 /var/www/html/danubetest/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#36 {main} [] []
+[2023-02-17T07:26:44.268432+00:00] main.CRITICAL: Laminas\Mail\Transport\Exception\RuntimeException: Unable to send mail: Unknown error in /var/www/html/danubetest/vendor/laminas/laminas-mail/src/Transport/Sendmail.php:310
+Stack trace:
+#0 /var/www/html/danubetest/vendor/laminas/laminas-mail/src/Transport/Sendmail.php(149): Laminas\Mail\Transport\Sendmail->mailHandler()
+#1 /var/www/html/danubetest/vendor/magento/module-email/Model/Transport.php(111): Laminas\Mail\Transport\Sendmail->send()
+#2 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Email\Model\Transport->sendMessage()
+#3 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Email\Model\Transport\Interceptor->___callParent()
+#4 /var/www/html/danubetest/vendor/magento/module-email/Model/Mail/TransportInterfacePlugin.php(48): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#5 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Email\Model\Mail\TransportInterfacePlugin->aroundSendMessage()
+#6 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /var/www/html/danubetest/generated/code/Magento/Email/Model/Transport/Interceptor.php(23): Magento\Email\Model\Transport\Interceptor->___callPlugins()
+#8 /var/www/html/danubetest/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(106): Magento\Email\Model\Transport\Interceptor->sendMessage()
+#9 /var/www/html/danubetest/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(135): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendConfigRequired()
+#10 /var/www/html/danubetest/vendor/magento/module-two-factor-auth/Model/UserConfig/UserConfigRequestManager.php(82): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendAppConfigRequestMessage()
+#11 /var/www/html/danubetest/vendor/magento/module-two-factor-auth/Controller/Adminhtml/Tfa/Requestconfig.php(95): Magento\TwoFactorAuth\Model\UserConfig\UserConfigRequestManager->sendConfigRequestTo()
+#12 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig->execute()
+#13 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#14 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#15 /var/www/html/danubetest/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(23): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#16 /var/www/html/danubetest/vendor/magento/framework/App/Action/Action.php(111): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->execute()
+#17 /var/www/html/danubetest/vendor/magento/module-backend/App/AbstractAction.php(151): Magento\Framework\App\Action\Action->dispatch()
+#18 /var/www/html/danubetest/vendor/magento/module-two-factor-auth/Controller/Adminhtml/AbstractAction.php(30): Magento\Backend\App\AbstractAction->dispatch()
+#19 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\AbstractAction->dispatch()
+#20 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#21 /var/www/html/danubetest/vendor/magento/module-backend/App/Action/Plugin/Authentication.php(145): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#22 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Backend\App\Action\Plugin\Authentication->aroundDispatch()
+#23 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#24 /var/www/html/danubetest/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(32): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#25 /var/www/html/danubetest/vendor/magento/framework/App/FrontController.php(245): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->dispatch()
+#26 /var/www/html/danubetest/vendor/magento/framework/App/FrontController.php(212): Magento\Framework\App\FrontController->getActionResponse()
+#27 /var/www/html/danubetest/vendor/magento/framework/App/FrontController.php(147): Magento\Framework\App\FrontController->processRequest()
+#28 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#29 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#30 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#31 /var/www/html/danubetest/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#32 /var/www/html/danubetest/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#33 /var/www/html/danubetest/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#34 /var/www/html/danubetest/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#35 /var/www/html/danubetest/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#36 {main}
+
+Next Magento\Framework\Exception\MailException: Unable to send mail. Please try again later. in /var/www/html/danubetest/vendor/magento/module-email/Model/Transport.php:114
+Stack trace:
+#0 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Email\Model\Transport->sendMessage()
+#1 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Email\Model\Transport\Interceptor->___callParent()
+#2 /var/www/html/danubetest/vendor/magento/module-email/Model/Mail/TransportInterfacePlugin.php(48): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#3 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Email\Model\Mail\TransportInterfacePlugin->aroundSendMessage()
+#4 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#5 /var/www/html/danubetest/generated/code/Magento/Email/Model/Transport/Interceptor.php(23): Magento\Email\Model\Transport\Interceptor->___callPlugins()
+#6 /var/www/html/danubetest/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(106): Magento\Email\Model\Transport\Interceptor->sendMessage()
+#7 /var/www/html/danubetest/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(135): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendConfigRequired()
+#8 /var/www/html/danubetest/vendor/magento/module-two-factor-auth/Model/UserConfig/UserConfigRequestManager.php(82): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendAppConfigRequestMessage()
+#9 /var/www/html/danubetest/vendor/magento/module-two-factor-auth/Controller/Adminhtml/Tfa/Requestconfig.php(95): Magento\TwoFactorAuth\Model\UserConfig\UserConfigRequestManager->sendConfigRequestTo()
+#10 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig->execute()
+#11 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#12 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#13 /var/www/html/danubetest/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(23): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#14 /var/www/html/danubetest/vendor/magento/framework/App/Action/Action.php(111): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->execute()
+#15 /var/www/html/danubetest/vendor/magento/module-backend/App/AbstractAction.php(151): Magento\Framework\App\Action\Action->dispatch()
+#16 /var/www/html/danubetest/vendor/magento/module-two-factor-auth/Controller/Adminhtml/AbstractAction.php(30): Magento\Backend\App\AbstractAction->dispatch()
+#17 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\AbstractAction->dispatch()
+#18 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#19 /var/www/html/danubetest/vendor/magento/module-backend/App/Action/Plugin/Authentication.php(145): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#20 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Backend\App\Action\Plugin\Authentication->aroundDispatch()
+#21 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#22 /var/www/html/danubetest/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(32): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#23 /var/www/html/danubetest/vendor/magento/framework/App/FrontController.php(245): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->dispatch()
+#24 /var/www/html/danubetest/vendor/magento/framework/App/FrontController.php(212): Magento\Framework\App\FrontController->getActionResponse()
+#25 /var/www/html/danubetest/vendor/magento/framework/App/FrontController.php(147): Magento\Framework\App\FrontController->processRequest()
+#26 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#27 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#28 /var/www/html/danubetest/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#29 /var/www/html/danubetest/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#30 /var/www/html/danubetest/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#31 /var/www/html/danubetest/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#32 /var/www/html/danubetest/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#33 /var/www/html/danubetest/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#34 {main} [] []
+[2023-02-17T07:26:44.293479+00:00] main.INFO: Broken reference: the 'tracking' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.293665+00:00] main.INFO: Broken reference: the 'notification_area' element cannot be added as child to 'notifications', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.293751+00:00] main.INFO: Broken reference: the 'unread_system_messages' element cannot be added as child to 'notifications', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.293824+00:00] main.INFO: Broken reference: the 'notification_window' element cannot be added as child to 'notifications', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.293902+00:00] main.INFO: Broken reference: the 'notification.messages' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.293980+00:00] main.INFO: Broken reference: the 'global_notices' element cannot be added as child to 'global.notices', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.294056+00:00] main.INFO: Broken reference: the 'logo' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.294126+00:00] main.INFO: Broken reference: the 'global.search' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.294198+00:00] main.INFO: Broken reference: the 'user' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.294275+00:00] main.INFO: Broken reference: the 'menu' element cannot be added as child to 'page.menu', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.294353+00:00] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.breadcrumbs', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.294428+00:00] main.INFO: Broken reference: the 'formkey' element cannot be added as child to 'page.formkey', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.294504+00:00] main.INFO: Broken reference: the 'page.title' element cannot be added as child to 'main.top', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.294598+00:00] main.INFO: Broken reference: the 'messages' element cannot be added as child to 'page.messages', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.294685+00:00] main.INFO: Broken reference: the 'page.actions.toolbar' element cannot be added as child to 'page.main.actions', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.294762+00:00] main.INFO: Broken reference: the 'legal' element cannot be added as child to 'footer', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.294964+00:00] main.INFO: Broken reference: the 'header.inner.left' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.295043+00:00] main.INFO: Broken reference: the 'header.inner.right' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2023-02-17T07:26:44.295171+00:00] main.INFO: Broken reference: the 'user' tries to reorder itself towards '', but their parents are different: 'header' and '' respectively. [] []
+[2023-02-17T07:26:44.295251+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header' and '' respectively. [] []
+[2023-02-17T07:26:44.295329+00:00] main.INFO: Broken reference: the 'logo' tries to reorder itself towards '', but their parents are different: 'header' and '' respectively. [] []
+[2023-02-17T07:26:44.295418+00:00] main.INFO: Broken reference: the 'global.search' tries to reorder itself towards 'logo', but their parents are different: 'header' and '' respectively. [] []
+[2023-02-17T07:26:44.295500+00:00] main.INFO: Broken reference: the 'page.actions.toolbar' tries to reorder itself towards '', but their parents are different: 'page.main.actions' and '' respectively. [] []
+[2023-02-17T07:26:44.295602+00:00] main.INFO: Broken reference: the 'header.inner.left' tries to reorder itself towards '', but their parents are different: 'header' and '' respectively. [] []
+[2023-02-17T07:26:44.295679+00:00] main.INFO: Broken reference: the 'header.inner.right' tries to reorder itself towards 'header.inner.left', but their parents are different: 'header' and '' respectively. [] []
+[2023-02-17T07:26:44.295768+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and '' respectively. [] []
+[2023-02-17T07:28:07.014129+00:00] main.INFO: Item Magento_Backend::system_currency was removed [] []
+[2023-02-17T07:28:07.016769+00:00] main.INFO: Add of item with id Magento_AdminNotification::system_adminnotification was processed [] []
+[2023-02-17T07:28:07.016858+00:00] main.INFO: Add of item with id Magento_Theme::design_config was processed [] []
+[2023-02-17T07:28:07.016906+00:00] main.INFO: Add of item with id Magento_Theme::system_design_theme was processed [] []
+[2023-02-17T07:28:07.016960+00:00] main.INFO: Add of item with id Magento_Config::system_config was processed [] []
+[2023-02-17T07:28:07.017001+00:00] main.INFO: Add of item with id Magento_Backend::system_design_schedule was processed [] []
+[2023-02-17T07:28:07.017040+00:00] main.INFO: Add of item with id Magento_Backend::system_store was processed [] []
+[2023-02-17T07:28:07.017077+00:00] main.INFO: Add of item with id Magento_Backend::dashboard was processed [] []
+[2023-02-17T07:28:07.017114+00:00] main.INFO: Add of item with id Magento_Backend::system was processed [] []
+[2023-02-17T07:28:07.017163+00:00] main.INFO: Add of item with id Magento_Backend::system_tools was processed [] []
+[2023-02-17T07:28:07.017225+00:00] main.INFO: Add of item with id Magento_Backend::system_design was processed [] []
+[2023-02-17T07:28:07.017267+00:00] main.INFO: Add of item with id Magento_Backend::system_convert was processed [] []
+[2023-02-17T07:28:07.017315+00:00] main.INFO: Add of item with id Magento_Backend::system_cache was processed [] []
+[2023-02-17T07:28:07.017355+00:00] main.INFO: Add of item with id Magento_Backend::marketing was processed [] []
+[2023-02-17T07:28:07.017416+00:00] main.INFO: Add of item with id Magento_Backend::marketing_communications was processed [] []
+[2023-02-17T07:28:07.017456+00:00] main.INFO: Add of item with id Magento_Backend::marketing_seo was processed [] []
+[2023-02-17T07:28:07.017492+00:00] main.INFO: Add of item with id Magento_Backend::marketing_user_content was processed [] []
+[2023-02-17T07:28:07.017527+00:00] main.INFO: Add of item with id Magento_Backend::content was processed [] []
+[2023-02-17T07:28:07.017562+00:00] main.INFO: Add of item with id Magento_Backend::content_elements was processed [] []
+[2023-02-17T07:28:07.017598+00:00] main.INFO: Add of item with id Magento_Backend::stores was processed [] []
+[2023-02-17T07:28:07.017644+00:00] main.INFO: Add of item with id Magento_Backend::stores_settings was processed [] []
+[2023-02-17T07:28:07.017689+00:00] main.INFO: Add of item with id Magento_Backend::stores_attributes was processed [] []
+[2023-02-17T07:28:07.017724+00:00] main.INFO: Add of item with id Magento_Backend::other_settings was processed [] []
+[2023-02-17T07:28:07.017759+00:00] main.INFO: Add of item with id Magento_Backend::system_other_settings was processed [] []
+[2023-02-17T07:28:07.017794+00:00] main.INFO: Add of item with id Magento_Customer::customer was processed [] []
+[2023-02-17T07:28:07.017841+00:00] main.INFO: Add of item with id Magento_Customer::customer_manage was processed [] []
+[2023-02-17T07:28:07.017879+00:00] main.INFO: Add of item with id Magento_Customer::customer_online was processed [] []
+[2023-02-17T07:28:07.017915+00:00] main.INFO: Add of item with id Magento_Customer::customer_group was processed [] []
+[2023-02-17T07:28:07.017950+00:00] main.INFO: Add of item with id Magento_User::system_acl was processed [] []
+[2023-02-17T07:28:07.017997+00:00] main.INFO: Add of item with id Magento_User::system_acl_users was processed [] []
+[2023-02-17T07:28:07.018036+00:00] main.INFO: Add of item with id Magento_User::system_acl_roles was processed [] []
+[2023-02-17T07:28:07.018077+00:00] main.INFO: Add of item with id Magento_User::system_acl_locks was processed [] []
+[2023-02-17T07:28:07.018125+00:00] main.INFO: Add of item with id Magento_Backup::system_tools_backup was processed [] []
+[2023-02-17T07:28:07.018162+00:00] main.INFO: Add of item with id Magento_Indexer::system_index was processed [] []
+[2023-02-17T07:28:07.018198+00:00] main.INFO: Add of item with id Magento_Variable::system_variable was processed [] []
+[2023-02-17T07:28:07.018257+00:00] main.INFO: Add of item with id Magento_Cms::cms_page was processed [] []
+[2023-02-17T07:28:07.018323+00:00] main.INFO: Add of item with id Magento_Cms::cms_block was processed [] []
+[2023-02-17T07:28:07.018386+00:00] main.INFO: Add of item with id Magento_Search::search_terms was processed [] []
+[2023-02-17T07:28:07.018441+00:00] main.INFO: Add of item with id Magento_Search::search_synonyms was processed [] []
+[2023-02-17T07:28:07.018478+00:00] main.INFO: Add of item with id Magento_Catalog::catalog was processed [] []
+[2023-02-17T07:28:07.018528+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_products was processed [] []
+[2023-02-17T07:28:07.018568+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_categories was processed [] []
+[2023-02-17T07:28:07.018618+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_attributes was processed [] []
+[2023-02-17T07:28:07.018659+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_sets was processed [] []
+[2023-02-17T07:28:07.018707+00:00] main.INFO: Add of item with id Magento_Catalog::inventory was processed [] []
+[2023-02-17T07:28:07.018755+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo was processed [] []
+[2023-02-17T07:28:07.018805+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo_catalog was processed [] []
+[2023-02-17T07:28:07.018845+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media was processed [] []
+[2023-02-17T07:28:07.018894+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media_gallery was processed [] []
+[2023-02-17T07:28:07.018935+00:00] main.INFO: Add of item with id Magento_Integration::system_extensions was processed [] []
+[2023-02-17T07:28:07.018984+00:00] main.INFO: Add of item with id Magento_Integration::system_integrations was processed [] []
+[2023-02-17T07:28:07.019024+00:00] main.INFO: Add of item with id Magento_Sales::sales was processed [] []
+[2023-02-17T07:28:07.019073+00:00] main.INFO: Add of item with id Magento_Sales::sales_operation was processed [] []
+[2023-02-17T07:28:07.019125+00:00] main.INFO: Add of item with id Magento_Sales::sales_order was processed [] []
+[2023-02-17T07:28:07.019165+00:00] main.INFO: Add of item with id Magento_Sales::sales_invoice was processed [] []
+[2023-02-17T07:28:07.019210+00:00] main.INFO: Add of item with id Magento_Sales::sales_shipment was processed [] []
+[2023-02-17T07:28:07.019247+00:00] main.INFO: Add of item with id Magento_Sales::sales_creditmemo was processed [] []
+[2023-02-17T07:28:07.019283+00:00] main.INFO: Add of item with id Magento_Sales::sales_transactions was processed [] []
+[2023-02-17T07:28:07.019320+00:00] main.INFO: Add of item with id Magento_Sales::system_order_statuses was processed [] []
+[2023-02-17T07:28:07.019355+00:00] main.INFO: Add of item with id Magento_Widget::cms_widget_instance was processed [] []
+[2023-02-17T07:28:07.019428+00:00] main.INFO: Add of item with id Magento_Analytics::business_intelligence was processed [] []
+[2023-02-17T07:28:07.019485+00:00] main.INFO: Add of item with id Magento_Analytics::advanced_reporting was processed [] []
+[2023-02-17T07:28:07.019525+00:00] main.INFO: Add of item with id Magento_Analytics::bi_essentials was processed [] []
+[2023-02-17T07:28:07.019575+00:00] main.INFO: Add of item with id Magento_Downloadable::report_products_downloads was processed [] []
+[2023-02-17T07:28:07.019626+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_import was processed [] []
+[2023-02-17T07:28:07.019665+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_export was processed [] []
+[2023-02-17T07:28:07.019701+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_history was processed [] []
+[2023-02-17T07:28:07.019750+00:00] main.INFO: Add of item with id Magento_Email::template was processed [] []
+[2023-02-17T07:28:07.019789+00:00] main.INFO: Add of item with id Magento_EncryptionKey::system_crypt_key was processed [] []
+[2023-02-17T07:28:07.019826+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::inventory was processed [] []
+[2023-02-17T07:28:07.019874+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::source was processed [] []
+[2023-02-17T07:28:07.019912+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::stock was processed [] []
+[2023-02-17T07:28:07.019949+00:00] main.INFO: Add of item with id Magento_Reports::report was processed [] []
+[2023-02-17T07:28:07.019985+00:00] main.INFO: Add of item with id Magento_Reports::report_marketing was processed [] []
+[2023-02-17T07:28:07.020021+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot was processed [] []
+[2023-02-17T07:28:07.020069+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_sales was processed [] []
+[2023-02-17T07:28:07.020109+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_tax was processed [] []
+[2023-02-17T07:28:07.020146+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_invoiced was processed [] []
+[2023-02-17T07:28:07.020182+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_shipping was processed [] []
+[2023-02-17T07:28:07.020224+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_refunded was processed [] []
+[2023-02-17T07:28:07.020261+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_coupons was processed [] []
+[2023-02-17T07:28:07.020310+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_product was processed [] []
+[2023-02-17T07:28:07.020349+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_abandoned was processed [] []
+[2023-02-17T07:28:07.020386+00:00] main.INFO: Add of item with id Magento_Reports::report_products was processed [] []
+[2023-02-17T07:28:07.020422+00:00] main.INFO: Add of item with id Magento_Reports::report_products_bestsellers was processed [] []
+[2023-02-17T07:28:07.020458+00:00] main.INFO: Add of item with id Magento_Reports::report_products_sold was processed [] []
+[2023-02-17T07:28:07.020494+00:00] main.INFO: Add of item with id Magento_Reports::report_products_viewed was processed [] []
+[2023-02-17T07:28:07.020530+00:00] main.INFO: Add of item with id Magento_Reports::report_products_lowstock was processed [] []
+[2023-02-17T07:28:07.020573+00:00] main.INFO: Add of item with id Magento_Reports::report_customers was processed [] []
+[2023-02-17T07:28:07.020622+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_accounts was processed [] []
+[2023-02-17T07:28:07.020662+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_totals was processed [] []
+[2023-02-17T07:28:07.020698+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_orders was processed [] []
+[2023-02-17T07:28:07.020735+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics was processed [] []
+[2023-02-17T07:28:07.020783+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics_refresh was processed [] []
+[2023-02-17T07:28:07.020823+00:00] main.INFO: Add of item with id Magento_Search::report_search_term was processed [] []
+[2023-02-17T07:28:07.020860+00:00] main.INFO: Add of item with id Magento_LoginAsCustomerLog::login_log was processed [] []
+[2023-02-17T07:28:07.020895+00:00] main.INFO: Add of item with id Magento_Marketplace::partners was processed [] []
+[2023-02-17T07:28:07.020931+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_template was processed [] []
+[2023-02-17T07:28:07.020967+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_queue was processed [] []
+[2023-02-17T07:28:07.021002+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_subscriber was processed [] []
+[2023-02-17T07:28:07.021038+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_problem was processed [] []
+[2023-02-17T07:28:07.021074+00:00] main.INFO: Add of item with id Magento_SalesRule::promo_quote was processed [] []
+[2023-02-17T07:28:07.021110+00:00] main.INFO: Add of item with id Magento_Sitemap::catalog_sitemap was processed [] []
+[2023-02-17T07:28:07.021145+00:00] main.INFO: Add of item with id Magento_PageBuilder::templates was processed [] []
+[2023-02-17T07:28:07.021181+00:00] main.INFO: Add of item with id Magento_Paypal::report_salesroot_paypal_settlement_reports was processed [] []
+[2023-02-17T07:28:07.021217+00:00] main.INFO: Add of item with id Magento_Paypal::paypal_billing_agreement was processed [] []
+[2023-02-17T07:28:07.021255+00:00] main.INFO: Add of item with id Magento_CheckoutAgreements::sales_checkoutagreement was processed [] []
+[2023-02-17T07:28:07.021291+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_ratings was processed [] []
+[2023-02-17T07:28:07.021348+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_pending was processed [] []
+[2023-02-17T07:28:07.021421+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_reviews_all was processed [] []
+[2023-02-17T07:28:07.021497+00:00] main.INFO: Add of item with id Magento_Review::report_review was processed [] []
+[2023-02-17T07:28:07.021601+00:00] main.INFO: Add of item with id Magento_Review::report_review_customer was processed [] []
+[2023-02-17T07:28:07.021667+00:00] main.INFO: Add of item with id Magento_Review::report_review_product was processed [] []
+[2023-02-17T07:28:07.021723+00:00] main.INFO: Add of item with id Magento_UrlRewrite::urlrewrite was processed [] []
+[2023-02-17T07:28:07.021778+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax was processed [] []
+[2023-02-17T07:28:07.021864+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rules was processed [] []
+[2023-02-17T07:28:07.021925+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rates was processed [] []
+[2023-02-17T07:28:07.021983+00:00] main.INFO: Add of item with id Magento_TaxImportExport::system_convert_tax was processed [] []
+[2023-02-17T07:28:07.022040+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging was processed [] []
+[2023-02-17T07:28:07.022120+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging_bulk_operations was processed [] []
+[2023-02-17T07:28:07.022183+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency was processed [] []
+[2023-02-17T07:28:07.022275+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_rates was processed [] []
+[2023-02-17T07:28:07.022343+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_symbols was processed [] []
+[2023-02-17T07:28:07.022394+00:00] main.INFO: Add of item with id PayPal_Braintree::settlement_report was processed [] []
+[2023-02-17T07:28:07.022433+00:00] main.INFO: Add of item with id PayPal_Braintree::virtual_terminal was processed [] []
+[2023-02-17T07:28:15.821612+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2023-02-17T07:35:40.384143+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []

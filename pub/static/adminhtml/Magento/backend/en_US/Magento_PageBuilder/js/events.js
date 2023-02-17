@@ -1,0 +1,1 @@
+/var/www/html/danubetest/vendor/magento/module-page-builder/view/base/web/js/events.js
